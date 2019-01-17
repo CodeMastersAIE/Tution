@@ -23,12 +23,12 @@ body {
 }
 
 .carousel-image-2 {
-  background: url('../img/f2.png');
+  background: url('../img/f3.png');
   background-size: cover;
 }
 
 .carousel-image-3 {
-  background: url('../img/image3.jpg');
+  background: url('../img/f2.png');
   background-size: cover;
 }
 
