@@ -1,6 +1,6 @@
 #aboutpage-header {
     height: 200px;
-    background: url(../img/aboutUsimg/blackboard.png);
+    background-color: black;
     background-position: 0 -360px;
     background-attachment: fixed;
     color: rgb(245, 243, 243);
