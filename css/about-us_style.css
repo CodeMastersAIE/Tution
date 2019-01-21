@@ -1,2 +1,10 @@
-
+#aboutpage-header {
+    height: 200px;
+    background: url(../img/aboutUsimg/blackboard.png);
+    background-position: 0 -360px;
+    background-attachment: fixed;
+    color: rgb(245, 243, 243);
+    border-bottom: 1px #eee solid;
+    padding-top: 50px;
+  }
   
